@@ -1,0 +1,662 @@
+{"ts":"2026-09-25T08:38:16.837Z","session":"20260925-083816","kind":"server_start","data":{"port":5500,"host":"0.0.0.0","root":"c:\\Users\\Brent\\source\\repos\\tweedeles\\webtechnologielabo020","https":false,"live_reload":true}}
+{"ts":"2026-09-25T08:38:17.594Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":2}}
+{"ts":"2026-09-25T08:38:17.675Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c0","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:38:17.676Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/favicon.ico","status":404,"duration_ms":0}}
+{"ts":"2026-09-25T08:38:22.252Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c0"}}
+{"ts":"2026-09-25T08:38:23.293Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c1","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:38:23.903Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c1"}}
+{"ts":"2026-09-25T08:38:37.968Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:38:39.242Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:38:41.323Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:38:44.200Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":15}}
+{"ts":"2026-09-25T08:38:44.288Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c2","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:38:54.586Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c2"}}
+{"ts":"2026-09-25T08:39:10.854Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:39:21.626Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:39:27.499Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:39:40.573Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:39:50.126Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:39:54.143Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:39:57.642Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":11}}
+{"ts":"2026-09-25T08:39:57.725Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c3","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:40:21.010Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c3"}}
+{"ts":"2026-09-25T08:43:00.232Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:43:02.356Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:43:04.457Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:43:09.284Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:43:12.165Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:43:16.011Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":2}}
+{"ts":"2026-09-25T08:43:16.090Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c4","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:44:15.761Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c4"}}
+{"ts":"2026-09-25T08:44:19.772Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":304,"duration_ms":3}}
+{"ts":"2026-09-25T08:44:19.838Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c5","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:48:15.319Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:48:15.319Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:48:15.364Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":9}}
+{"ts":"2026-09-25T08:48:15.400Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c5"}}
+{"ts":"2026-09-25T08:48:15.462Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c6","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:48:18.602Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:48:18.602Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:48:18.640Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":10}}
+{"ts":"2026-09-25T08:48:18.683Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c6"}}
+{"ts":"2026-09-25T08:48:18.733Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c7","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:48:23.767Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:48:23.767Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:48:23.808Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-25T08:48:23.849Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c7"}}
+{"ts":"2026-09-25T08:48:23.900Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c8","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:48:25.672Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:48:25.673Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:48:25.703Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":10}}
+{"ts":"2026-09-25T08:48:25.732Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c8"}}
+{"ts":"2026-09-25T08:48:25.779Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c9","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:48:28.231Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:48:28.231Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:48:28.268Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":11}}
+{"ts":"2026-09-25T08:48:28.283Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c9"}}
+{"ts":"2026-09-25T08:48:28.339Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c10","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:48:32.890Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:48:32.891Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:48:32.933Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-25T08:48:32.973Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c10"}}
+{"ts":"2026-09-25T08:48:33.026Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c11","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:48:40.354Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:48:40.354Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:48:40.396Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-25T08:48:40.436Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c11"}}
+{"ts":"2026-09-25T08:48:40.488Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c12","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:48:46.403Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:48:46.403Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:48:46.441Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":13}}
+{"ts":"2026-09-25T08:48:46.470Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c12"}}
+{"ts":"2026-09-25T08:48:46.506Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c13","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:48:50.964Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:48:50.964Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:48:51.035Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":41}}
+{"ts":"2026-09-25T08:48:51.092Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c13"}}
+{"ts":"2026-09-25T08:48:51.142Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c14","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:48:53.352Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:48:53.352Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:48:53.383Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":9}}
+{"ts":"2026-09-25T08:48:53.422Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c14"}}
+{"ts":"2026-09-25T08:48:53.457Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c15","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:48:54.925Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:48:54.925Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:48:54.966Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":13}}
+{"ts":"2026-09-25T08:48:55.004Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c15"}}
+{"ts":"2026-09-25T08:48:55.050Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c16","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:49:01.533Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:49:01.533Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:49:01.575Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":11}}
+{"ts":"2026-09-25T08:49:01.612Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c16"}}
+{"ts":"2026-09-25T08:49:01.660Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c17","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:49:04.888Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:49:04.888Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:49:04.920Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":9}}
+{"ts":"2026-09-25T08:49:04.959Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c17"}}
+{"ts":"2026-09-25T08:49:05.007Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c18","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:49:06.235Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:49:06.235Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:49:06.273Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":10}}
+{"ts":"2026-09-25T08:49:06.312Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c18"}}
+{"ts":"2026-09-25T08:49:06.364Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c19","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:49:11.663Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:49:11.663Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:49:11.705Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":10}}
+{"ts":"2026-09-25T08:49:11.742Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c19"}}
+{"ts":"2026-09-25T08:49:11.798Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c20","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:49:14.374Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:49:14.374Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:49:14.402Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":8}}
+{"ts":"2026-09-25T08:49:14.433Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c20"}}
+{"ts":"2026-09-25T08:49:14.470Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c21","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:49:30.372Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:49:30.372Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:49:30.424Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":22}}
+{"ts":"2026-09-25T08:49:30.458Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c21"}}
+{"ts":"2026-09-25T08:49:30.492Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c22","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:49:31.694Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:49:31.694Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:49:31.726Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":9}}
+{"ts":"2026-09-25T08:49:31.753Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c22"}}
+{"ts":"2026-09-25T08:49:31.799Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c23","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:49:32.932Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:49:32.932Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:49:32.971Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":11}}
+{"ts":"2026-09-25T08:49:33.013Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c23"}}
+{"ts":"2026-09-25T08:49:33.064Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c24","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:49:37.237Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:49:37.237Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:49:37.270Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":7}}
+{"ts":"2026-09-25T08:49:37.302Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c24"}}
+{"ts":"2026-09-25T08:49:37.343Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c25","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:49:38.535Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:49:38.535Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:49:38.576Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-25T08:49:38.617Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c25"}}
+{"ts":"2026-09-25T08:49:38.668Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c26","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:49:40.339Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:49:40.340Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:49:40.381Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":13}}
+{"ts":"2026-09-25T08:49:40.417Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c26"}}
+{"ts":"2026-09-25T08:49:40.468Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c27","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:49:47.086Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:49:47.086Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:49:47.128Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":14}}
+{"ts":"2026-09-25T08:49:47.168Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c27"}}
+{"ts":"2026-09-25T08:49:47.216Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c28","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:49:50.071Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:49:50.072Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:49:50.115Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":13}}
+{"ts":"2026-09-25T08:49:50.156Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c28"}}
+{"ts":"2026-09-25T08:49:50.207Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c29","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:49:51.843Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:49:51.843Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:49:51.884Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-25T08:49:51.924Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c29"}}
+{"ts":"2026-09-25T08:49:51.979Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c30","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:49:54.857Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:49:54.857Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:49:54.894Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":10}}
+{"ts":"2026-09-25T08:49:54.933Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c30"}}
+{"ts":"2026-09-25T08:49:54.977Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c31","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:49:56.412Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:49:56.412Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:49:56.449Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":11}}
+{"ts":"2026-09-25T08:49:56.485Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c31"}}
+{"ts":"2026-09-25T08:49:56.536Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c32","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:49:58.543Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:49:58.543Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:49:58.582Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":10}}
+{"ts":"2026-09-25T08:49:58.625Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c32"}}
+{"ts":"2026-09-25T08:49:58.674Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c33","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:50:05.394Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:50:05.394Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:50:05.436Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":11}}
+{"ts":"2026-09-25T08:50:05.480Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c33"}}
+{"ts":"2026-09-25T08:50:05.533Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c34","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:50:09.780Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:50:09.781Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:50:09.821Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-25T08:50:09.862Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c34"}}
+{"ts":"2026-09-25T08:50:09.918Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c35","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:50:13.202Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:50:13.202Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:50:13.247Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":11}}
+{"ts":"2026-09-25T08:50:13.283Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c35"}}
+{"ts":"2026-09-25T08:50:13.329Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c36","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:50:29.949Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:50:29.949Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:50:29.991Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":14}}
+{"ts":"2026-09-25T08:50:30.033Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c36"}}
+{"ts":"2026-09-25T08:50:30.082Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c37","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:50:36.750Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:50:36.750Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:50:36.790Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-25T08:50:36.829Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c37"}}
+{"ts":"2026-09-25T08:50:36.879Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c38","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:50:46.984Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:50:46.984Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:50:47.025Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":14}}
+{"ts":"2026-09-25T08:50:47.067Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c38"}}
+{"ts":"2026-09-25T08:50:47.119Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c39","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:50:54.095Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:50:54.095Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:50:54.136Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":11}}
+{"ts":"2026-09-25T08:50:54.177Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c39"}}
+{"ts":"2026-09-25T08:50:54.229Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c40","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:50:58.447Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:50:58.447Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:50:58.488Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":10}}
+{"ts":"2026-09-25T08:50:58.527Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c40"}}
+{"ts":"2026-09-25T08:50:58.577Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c41","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:51:17.266Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:51:17.266Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:51:17.304Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-25T08:51:17.340Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c41"}}
+{"ts":"2026-09-25T08:51:17.392Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c42","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:51:18.702Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:51:18.702Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:51:18.739Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":15}}
+{"ts":"2026-09-25T08:51:18.773Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c42"}}
+{"ts":"2026-09-25T08:51:18.812Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c43","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:51:25.371Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:51:25.371Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:51:25.409Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":11}}
+{"ts":"2026-09-25T08:51:25.448Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c43"}}
+{"ts":"2026-09-25T08:51:25.501Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c44","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:51:26.359Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:51:26.359Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:51:26.399Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":10}}
+{"ts":"2026-09-25T08:51:26.440Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c44"}}
+{"ts":"2026-09-25T08:51:26.488Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c45","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:51:31.350Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:51:31.350Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:51:31.384Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":9}}
+{"ts":"2026-09-25T08:51:31.422Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c45"}}
+{"ts":"2026-09-25T08:51:31.470Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c46","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:51:37.576Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:51:37.576Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:51:37.617Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-25T08:51:37.656Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c46"}}
+{"ts":"2026-09-25T08:51:37.704Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c47","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:51:41.147Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:51:41.148Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:51:41.188Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-25T08:51:41.232Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c47"}}
+{"ts":"2026-09-25T08:51:41.292Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c48","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:51:42.535Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:51:42.535Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:51:42.571Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":10}}
+{"ts":"2026-09-25T08:51:42.611Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c48"}}
+{"ts":"2026-09-25T08:51:42.658Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c49","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:51:44.551Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:51:44.551Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:51:44.583Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":10}}
+{"ts":"2026-09-25T08:51:44.618Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c49"}}
+{"ts":"2026-09-25T08:51:44.653Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c50","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:51:45.634Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:51:45.634Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:51:45.678Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":11}}
+{"ts":"2026-09-25T08:51:45.722Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c50"}}
+{"ts":"2026-09-25T08:51:45.774Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c51","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:51:47.313Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:51:47.313Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:51:47.353Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":11}}
+{"ts":"2026-09-25T08:51:47.393Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c51"}}
+{"ts":"2026-09-25T08:51:47.445Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c52","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:51:57.192Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:51:57.193Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:51:57.235Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":11}}
+{"ts":"2026-09-25T08:51:57.275Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c52"}}
+{"ts":"2026-09-25T08:51:57.329Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c53","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:51:58.663Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:51:58.663Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:51:58.692Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":8}}
+{"ts":"2026-09-25T08:51:58.731Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c53"}}
+{"ts":"2026-09-25T08:51:58.772Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c54","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:52:00.287Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:52:00.287Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:52:00.327Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-25T08:52:00.368Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c54"}}
+{"ts":"2026-09-25T08:52:00.419Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c55","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:52:02.052Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:52:02.053Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:52:02.096Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-25T08:52:02.133Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c55"}}
+{"ts":"2026-09-25T08:52:02.185Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c56","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:52:09.394Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:52:09.394Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:52:09.437Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":13}}
+{"ts":"2026-09-25T08:52:09.477Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c56"}}
+{"ts":"2026-09-25T08:52:09.524Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c57","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:52:10.868Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:52:10.869Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:52:10.899Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":8}}
+{"ts":"2026-09-25T08:52:10.913Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c57"}}
+{"ts":"2026-09-25T08:52:10.960Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c58","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:52:12.401Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:52:12.401Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:52:12.443Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":13}}
+{"ts":"2026-09-25T08:52:12.460Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c58"}}
+{"ts":"2026-09-25T08:52:12.510Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c59","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:52:14.138Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:52:14.139Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:52:14.182Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-25T08:52:14.226Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c59"}}
+{"ts":"2026-09-25T08:52:14.279Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c60","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:52:18.077Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:52:18.077Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:52:18.116Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":9}}
+{"ts":"2026-09-25T08:52:18.152Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c60"}}
+{"ts":"2026-09-25T08:52:18.192Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c61","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:52:22.062Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:52:22.063Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:52:22.100Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":10}}
+{"ts":"2026-09-25T08:52:22.141Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c61"}}
+{"ts":"2026-09-25T08:52:22.196Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c62","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:52:30.212Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:52:30.212Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:52:30.256Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":13}}
+{"ts":"2026-09-25T08:52:30.296Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c62"}}
+{"ts":"2026-09-25T08:52:30.347Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c63","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:52:31.496Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:52:31.497Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:52:31.540Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-25T08:52:31.579Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c63"}}
+{"ts":"2026-09-25T08:52:31.629Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c64","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:52:33.293Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:52:33.293Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:52:33.325Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":9}}
+{"ts":"2026-09-25T08:52:33.362Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c64"}}
+{"ts":"2026-09-25T08:52:33.412Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c65","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:52:34.958Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:52:34.959Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:52:34.998Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":16}}
+{"ts":"2026-09-25T08:52:35.007Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c65"}}
+{"ts":"2026-09-25T08:52:35.045Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c66","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:52:43.072Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:52:43.072Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:52:43.112Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":11}}
+{"ts":"2026-09-25T08:52:43.151Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c66"}}
+{"ts":"2026-09-25T08:52:43.196Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c67","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:52:52.607Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:52:52.608Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:52:52.647Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":10}}
+{"ts":"2026-09-25T08:52:52.678Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c67"}}
+{"ts":"2026-09-25T08:52:52.717Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c68","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:52:54.175Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:52:54.175Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:52:54.205Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":9}}
+{"ts":"2026-09-25T08:52:54.236Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c68"}}
+{"ts":"2026-09-25T08:52:54.281Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c69","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:53:28.571Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:53:28.571Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:53:28.614Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":14}}
+{"ts":"2026-09-25T08:53:28.655Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c69"}}
+{"ts":"2026-09-25T08:53:28.702Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c70","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:53:30.506Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:53:30.506Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:53:30.543Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":10}}
+{"ts":"2026-09-25T08:53:30.581Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c70"}}
+{"ts":"2026-09-25T08:53:30.621Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c71","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:53:51.328Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:53:51.328Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:53:51.370Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":14}}
+{"ts":"2026-09-25T08:53:51.416Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c71"}}
+{"ts":"2026-09-25T08:53:51.464Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c72","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:53:55.244Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:53:55.244Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:53:55.292Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":13}}
+{"ts":"2026-09-25T08:53:55.328Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c72"}}
+{"ts":"2026-09-25T08:53:55.380Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c73","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:54:12.757Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:54:12.757Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:54:12.797Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-25T08:54:12.847Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c73"}}
+{"ts":"2026-09-25T08:54:12.898Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c74","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:54:15.492Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:54:15.492Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:54:15.534Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":13}}
+{"ts":"2026-09-25T08:54:15.572Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c74"}}
+{"ts":"2026-09-25T08:54:15.620Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c75","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:54:18.407Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:54:18.407Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:54:18.450Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-25T08:54:18.489Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c75"}}
+{"ts":"2026-09-25T08:54:18.545Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c76","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:54:25.351Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:54:25.351Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:54:25.389Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":15}}
+{"ts":"2026-09-25T08:54:25.433Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c76"}}
+{"ts":"2026-09-25T08:54:25.482Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c77","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:54:27.154Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:54:27.154Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:54:27.192Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-25T08:54:27.232Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c77"}}
+{"ts":"2026-09-25T08:54:27.284Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c78","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:54:29.030Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:54:29.030Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:54:29.079Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":13}}
+{"ts":"2026-09-25T08:54:29.107Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c78"}}
+{"ts":"2026-09-25T08:54:29.144Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c79","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:54:30.096Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:54:30.096Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:54:30.143Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":13}}
+{"ts":"2026-09-25T08:54:30.181Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c79"}}
+{"ts":"2026-09-25T08:54:30.232Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c80","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:54:32.822Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:54:32.822Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:54:32.861Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":11}}
+{"ts":"2026-09-25T08:54:32.903Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c80"}}
+{"ts":"2026-09-25T08:54:32.955Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c81","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:54:36.449Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:54:36.449Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:54:36.495Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":20}}
+{"ts":"2026-09-25T08:54:36.523Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c81"}}
+{"ts":"2026-09-25T08:54:36.558Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c82","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:54:43.652Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:54:43.652Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:54:43.697Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-25T08:54:43.741Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c82"}}
+{"ts":"2026-09-25T08:54:43.786Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c83","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:54:45.527Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:54:45.527Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:54:45.565Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":10}}
+{"ts":"2026-09-25T08:54:45.605Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c83"}}
+{"ts":"2026-09-25T08:54:45.653Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c84","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:54:47.266Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:54:47.266Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:54:47.296Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":9}}
+{"ts":"2026-09-25T08:54:47.330Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c84"}}
+{"ts":"2026-09-25T08:54:47.376Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c85","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:54:48.793Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:54:48.793Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:54:48.842Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":21}}
+{"ts":"2026-09-25T08:54:48.875Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c85"}}
+{"ts":"2026-09-25T08:54:48.906Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c86","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:54:52.423Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:54:52.423Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:54:52.458Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":15}}
+{"ts":"2026-09-25T08:54:52.488Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c86"}}
+{"ts":"2026-09-25T08:54:52.523Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c87","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:54:55.410Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:54:55.410Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:54:55.453Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":11}}
+{"ts":"2026-09-25T08:54:55.489Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c87"}}
+{"ts":"2026-09-25T08:54:55.544Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c88","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:54:57.134Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:54:57.134Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:54:57.175Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":14}}
+{"ts":"2026-09-25T08:54:57.213Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c88"}}
+{"ts":"2026-09-25T08:54:57.266Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c89","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:55:00.245Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:55:00.246Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:55:00.286Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":13}}
+{"ts":"2026-09-25T08:55:00.303Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c89"}}
+{"ts":"2026-09-25T08:55:00.352Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c90","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:55:03.279Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:55:03.279Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:55:03.314Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":7}}
+{"ts":"2026-09-25T08:55:03.341Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c90"}}
+{"ts":"2026-09-25T08:55:03.382Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c91","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:55:04.577Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:55:04.577Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:55:04.620Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-25T08:55:04.660Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c91"}}
+{"ts":"2026-09-25T08:55:04.711Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c92","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:55:05.636Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:55:05.636Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:55:05.666Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":7}}
+{"ts":"2026-09-25T08:55:05.695Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c92"}}
+{"ts":"2026-09-25T08:55:05.736Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c93","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:55:08.680Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:55:08.681Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:55:08.723Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":13}}
+{"ts":"2026-09-25T08:55:08.765Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c93"}}
+{"ts":"2026-09-25T08:55:08.816Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c94","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:55:09.862Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:55:09.862Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:55:09.897Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":10}}
+{"ts":"2026-09-25T08:55:09.934Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c94"}}
+{"ts":"2026-09-25T08:55:09.981Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c95","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:55:11.064Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:55:11.064Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:55:11.108Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-25T08:55:11.149Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c95"}}
+{"ts":"2026-09-25T08:55:11.205Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c96","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:55:16.964Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:55:16.964Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:55:17.004Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-25T08:55:17.046Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c96"}}
+{"ts":"2026-09-25T08:55:17.090Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c97","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:55:20.796Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:55:20.796Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:55:20.836Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-25T08:55:20.876Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c97"}}
+{"ts":"2026-09-25T08:55:20.924Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c98","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:55:22.832Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:55:22.832Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:55:22.865Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":9}}
+{"ts":"2026-09-25T08:55:22.882Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c98"}}
+{"ts":"2026-09-25T08:55:22.934Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c99","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:55:27.415Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:55:27.415Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:55:27.458Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":14}}
+{"ts":"2026-09-25T08:55:27.498Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c99"}}
+{"ts":"2026-09-25T08:55:27.562Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c100","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:55:29.083Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:55:29.084Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:55:29.123Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-25T08:55:29.139Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c100"}}
+{"ts":"2026-09-25T08:55:29.192Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c101","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:55:31.331Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:55:31.331Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:55:31.365Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":11}}
+{"ts":"2026-09-25T08:55:31.378Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c101"}}
+{"ts":"2026-09-25T08:55:31.425Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c102","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:55:34.931Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:55:34.932Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:55:34.983Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":17}}
+{"ts":"2026-09-25T08:55:35.024Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c102"}}
+{"ts":"2026-09-25T08:55:35.070Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c103","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:55:36.995Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:55:36.995Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:55:37.024Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":8}}
+{"ts":"2026-09-25T08:55:37.054Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c103"}}
+{"ts":"2026-09-25T08:55:37.097Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c104","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:55:39.915Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:55:39.916Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:55:39.945Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":9}}
+{"ts":"2026-09-25T08:55:39.975Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c104"}}
+{"ts":"2026-09-25T08:55:40.020Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c105","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:55:59.754Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:55:59.754Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:55:59.797Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":13}}
+{"ts":"2026-09-25T08:55:59.839Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c105"}}
+{"ts":"2026-09-25T08:55:59.887Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c106","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:56:05.074Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:56:05.074Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:56:05.118Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":14}}
+{"ts":"2026-09-25T08:56:05.165Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c106"}}
+{"ts":"2026-09-25T08:56:05.228Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c107","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:56:08.028Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:56:08.028Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:56:08.067Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":10}}
+{"ts":"2026-09-25T08:56:08.101Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c107"}}
+{"ts":"2026-09-25T08:56:08.155Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c108","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:56:09.759Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:56:09.759Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:56:09.801Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":11}}
+{"ts":"2026-09-25T08:56:09.835Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c108"}}
+{"ts":"2026-09-25T08:56:09.885Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c109","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:56:11.757Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:56:11.757Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:56:11.795Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-25T08:56:11.828Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c109"}}
+{"ts":"2026-09-25T08:56:11.883Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c110","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:56:13.048Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:56:13.048Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:56:13.093Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":13}}
+{"ts":"2026-09-25T08:56:13.131Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c110"}}
+{"ts":"2026-09-25T08:56:13.184Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c111","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:56:21.060Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:56:21.060Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:56:21.100Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":10}}
+{"ts":"2026-09-25T08:56:21.141Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c111"}}
+{"ts":"2026-09-25T08:56:21.190Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c112","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:56:23.079Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:56:23.079Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:56:23.111Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":9}}
+{"ts":"2026-09-25T08:56:23.148Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c112"}}
+{"ts":"2026-09-25T08:56:23.186Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c113","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:56:25.357Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:56:25.357Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:56:25.394Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":9}}
+{"ts":"2026-09-25T08:56:25.426Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c113"}}
+{"ts":"2026-09-25T08:56:25.460Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c114","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:56:26.518Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:56:26.519Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:56:26.553Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":11}}
+{"ts":"2026-09-25T08:56:26.567Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c114"}}
+{"ts":"2026-09-25T08:56:26.614Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c115","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:56:50.056Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:56:50.056Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:56:50.095Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-25T08:56:50.138Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c115"}}
+{"ts":"2026-09-25T08:56:50.188Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c116","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:57:04.954Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:57:04.954Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:57:04.992Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":11}}
+{"ts":"2026-09-25T08:57:05.033Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c116"}}
+{"ts":"2026-09-25T08:57:05.079Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c117","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:57:06.278Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:57:06.278Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:57:06.312Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":11}}
+{"ts":"2026-09-25T08:57:06.345Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c117"}}
+{"ts":"2026-09-25T08:57:06.382Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c118","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:57:30.117Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:57:30.117Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:57:30.154Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":13}}
+{"ts":"2026-09-25T08:57:30.200Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c118"}}
+{"ts":"2026-09-25T08:57:30.244Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c119","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:57:35.785Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:57:35.785Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:57:35.821Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":11}}
+{"ts":"2026-09-25T08:57:35.863Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c119"}}
+{"ts":"2026-09-25T08:57:35.913Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c120","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:57:37.647Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:57:37.647Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:57:37.686Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":14}}
+{"ts":"2026-09-25T08:57:37.725Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c120"}}
+{"ts":"2026-09-25T08:57:37.769Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c121","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:57:38.835Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:57:38.837Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:57:38.859Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":7}}
+{"ts":"2026-09-25T08:57:38.889Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c121"}}
+{"ts":"2026-09-25T08:57:38.929Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c122","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:59:14.961Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:59:14.961Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:59:15.010Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":14}}
+{"ts":"2026-09-25T08:59:15.050Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c122"}}
+{"ts":"2026-09-25T08:59:15.097Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c123","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:59:16.317Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:59:16.317Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:59:16.350Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":9}}
+{"ts":"2026-09-25T08:59:16.389Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c123"}}
+{"ts":"2026-09-25T08:59:16.438Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c124","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:59:19.904Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:59:19.905Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:59:19.948Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":14}}
+{"ts":"2026-09-25T08:59:19.994Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c124"}}
+{"ts":"2026-09-25T08:59:20.044Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c125","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:59:24.287Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:59:24.289Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:59:24.319Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":10}}
+{"ts":"2026-09-25T08:59:24.348Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c125"}}
+{"ts":"2026-09-25T08:59:24.398Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c126","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:59:26.574Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:59:26.574Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:59:26.609Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-25T08:59:26.642Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c126"}}
+{"ts":"2026-09-25T08:59:26.694Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c127","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:59:31.117Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:59:31.118Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:59:31.163Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":16}}
+{"ts":"2026-09-25T08:59:31.206Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c127"}}
+{"ts":"2026-09-25T08:59:31.257Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c128","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:59:32.184Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:59:32.184Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:59:32.223Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":12}}
+{"ts":"2026-09-25T08:59:32.269Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c128"}}
+{"ts":"2026-09-25T08:59:32.315Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c129","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:59:35.704Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:59:35.704Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:59:35.746Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":14}}
+{"ts":"2026-09-25T08:59:35.787Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c129"}}
+{"ts":"2026-09-25T08:59:35.848Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c130","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
+{"ts":"2026-09-25T08:59:40.809Z","session":"20260925-083816","kind":"file_change","data":{"path":"gazet/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-09-25T08:59:40.809Z","session":"20260925-083816","kind":"reload_trigger","data":{"path":"gazet/index.html","reload_type":"full"}}
+{"ts":"2026-09-25T08:59:40.846Z","session":"20260925-083816","kind":"http_request","data":{"method":"GET","path":"/gazet/index.html","status":200,"duration_ms":14}}
+{"ts":"2026-09-25T08:59:40.881Z","session":"20260925-083816","kind":"ws_disconnect","data":{"client_id":"c130"}}
+{"ts":"2026-09-25T08:59:40.936Z","session":"20260925-083816","kind":"ws_connect","data":{"client_id":"c131","url":"http://localhost:5500/gazet/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36","viewport":[1536,826]}}
